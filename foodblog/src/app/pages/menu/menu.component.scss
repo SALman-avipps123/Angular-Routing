@@ -1,0 +1,23 @@
+.container{
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+
+}
+.row{
+    justify-content: center;
+    align-items: center;
+}
+ .card{
+    padding: 5px 50px;
+    // justify-content: center;
+    // align-items: center;
+    text-align: center;
+    margin: 15px;
+}
+.card h5{
+    justify-content: center;
+    text-align: center;
+    color: var(--primary-color);
+    background-color: var(--secondary-color);
+}
